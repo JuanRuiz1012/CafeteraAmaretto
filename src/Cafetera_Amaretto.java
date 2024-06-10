@@ -1,3 +1,10 @@
+//Integrante 1: Juan Felipe Ruiz 2359397-2724
+// Integrante 2: Jhorman Loaiza 2359710-2724
+//Docente: Luis German Toro Pareja
+//Matematicas Discretas 2
+//Grupo 51
+//Laboratorio 5
+
 import java.util.Scanner;
 
 //Main
